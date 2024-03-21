@@ -1,4 +1,3 @@
-from q_function import *
 import random 
 from matplotlib import pyplot as plt
 
