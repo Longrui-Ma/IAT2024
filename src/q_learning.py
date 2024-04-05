@@ -19,8 +19,8 @@ class q_agent:
         #main solving loop
         return
 
-    def get_delta(self, reward, q_value, state, next_state):
-        #Calculate the delta for the update
+    def get_delta(self, reward, q_value, next_state):
+        #Compute delta for the update
         return 0.0
 
 
